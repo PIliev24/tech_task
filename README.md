@@ -12,7 +12,7 @@ Prerequisites
 Flutter (Ensure you have Flutter installed on your local machine)
 
 Installation
- Clone the repository: git clone https://github.com/your-username/medication-management-app.git
+ Clone the repository: git clone https://github.com/PIliev24/tech_task
  Fetch dependencies: flutter pub get
  Run the app: flutter run
 
